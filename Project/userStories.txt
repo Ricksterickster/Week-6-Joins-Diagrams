@@ -1,0 +1,5 @@
+As a user I would like to see what brand of drive motors are in inventory.
+As a user I would like to see what the price of a Matrix motor control board is.
+As a user I would like to see where an items location is on the self.
+As a user I would like to see what category of items are in stock.
+As a user I would like to check the quantity of all items in stock.

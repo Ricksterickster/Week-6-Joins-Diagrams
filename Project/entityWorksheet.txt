@@ -1,0 +1,5 @@
+User(ID, categoryID, brandID, itemID)
+User(ID, brandID, categoryID, itemPrice)
+User(ID, itemID, categoryID, brandID, locationID, locationName)
+User(ID, categoryID, categoryName, itemID, itemQuantity)
+User(ID, itemID, categoryID, brandID, itemName, itemQuantity)
